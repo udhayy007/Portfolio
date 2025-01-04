@@ -29,7 +29,7 @@ const Contact = () => {
                             <i className="bx bx-mail-send contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Mail</h3>
-                            <span className="contact__card-data">keerholic@gmail.com</span>
+                            <span className="contact__card-data">udhayanithi2222@gmail.com</span>
 
                             <a href="mailto:keerholic@gmail.com" target='_blank' rel='noreferrer' className="contact__button">Write me{" "}<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
@@ -38,9 +38,9 @@ const Contact = () => {
                             <i className="bx bxl-discord contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Discord</h3>
-                            <span className="contact__card-data">keertheyy</span>
+                            <span className="contact__card-data">Udhayy_07</span>
 
-                            <a href="https://discord.com/users/911557315029770331" target='_blank' rel='noreferrer' className="contact__button">Write me{" "} 
+                            <a href="https://discord.com/channels/@me" target='_blank' rel='noreferrer' className="contact__button">Write me{" "} 
                             <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                             </a>
                         </div>

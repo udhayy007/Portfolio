@@ -35,7 +35,7 @@ const Qualification = () => {
                                 <h3 className="qualification__title">B.E CSE</h3>
                                 <span className="qualification__subtitle">Chennai Institute of Technology</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt">2021 - 2025</i>
+                                    <i className="uil uil-calender-alt">2023 - 2027</i>
                                 </div>
                             </div>
 
@@ -54,9 +54,9 @@ const Qualification = () => {
                             </div>
                             <div>
                                 <h3 className="qualification__title">Higher Secondary</h3>
-                                <span className="qualification__subtitle">Noble Matric. Hr. Sec. School</span>
+                                <span className="qualification__subtitle">Velammal Matric. Hr. Sec. School</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt">2019 - 2021</i>
+                                    <i className="uil uil-calender-alt">2021 - 2023</i>
                                 </div>
                             </div>
                         </div>
@@ -68,9 +68,9 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Software Engineer Intern</h3>
-                                <span className="qualification__subtitle">Colakin, Australia</span>
+                                <span className="qualification__subtitle">Apex Toppomappers, Chennai</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt">May 2023 - July 2023</i>
+                                    <i className="uil uil-calender-alt">Nov 2024 - Dec 2024</i>
                                 </div>
                             </div>
 
@@ -88,10 +88,10 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Business Analyst Intern</h3>
-                                <span className="qualification__subtitle">Colakin, Australia</span>
+                                <h3 className="qualification__title">Front-End Intern</h3>
+                                <span className="qualification__subtitle">DYNX, Chennai</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt">May 2023 - July 2023</i>
+                                    <i className="uil uil-calender-alt">July 2024 - Sep 2024</i>
                                 </div>
                             </div>
                         </div>
